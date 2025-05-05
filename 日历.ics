@@ -304,4 +304,4 @@ END:VEVENT
 
 
 
-END:VCALENDAR                ; 日历文件的结束标记
+END:VCALENDAR
